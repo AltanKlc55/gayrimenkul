@@ -1,0 +1,11 @@
+.authentication .authentication-cover {
+    background: url(../../global/img/bg.jpeg) center center / cover!important;
+}
+.btn-dark {
+    background-color:#111c43;
+    border-color: #111c43;
+    color: var(--custom-white);
+}
+.footer {
+    padding-inline-start: 0!important;
+}

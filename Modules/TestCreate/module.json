@@ -1,0 +1,13 @@
+{
+    "name": "TestCreate",
+    "alias": "testcreate",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TestCreate\\Providers\\TestCreateServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

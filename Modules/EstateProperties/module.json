@@ -1,0 +1,13 @@
+{
+    "name": "EstateProperties",
+    "alias": "estateproperties",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\EstateProperties\\Providers\\EstatePropertiesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

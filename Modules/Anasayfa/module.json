@@ -1,0 +1,13 @@
+{
+    "name": "Anasayfa",
+    "alias": "anasayfa",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Anasayfa\\Providers\\AnasayfaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

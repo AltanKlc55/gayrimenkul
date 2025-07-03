@@ -1,0 +1,13 @@
+{
+    "name": "ExpertPanel",
+    "alias": "expertpanel",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ExpertPanel\\Providers\\ExpertPanelServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,12 @@
+{
+    "Blog": true,
+    "Posts": true,
+    "Product": true,
+    "Admin": true,
+    "Option": true,
+    "Category": true,
+    "Seller\/": true,
+    "Dashboard": true,
+    "LanguageController": true,
+    "Language": true
+}

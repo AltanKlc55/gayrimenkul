@@ -1,0 +1,13 @@
+{
+    "name": "Current",
+    "alias": "current",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Current\\Providers\\CurrentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

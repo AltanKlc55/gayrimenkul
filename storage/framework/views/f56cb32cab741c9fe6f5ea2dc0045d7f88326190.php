@@ -1,0 +1,3 @@
+<?php echo $__env->make('interface/header', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->yieldContent('content'); ?>
+<?php echo $__env->make('interface/footer', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\Users\astok\Desktop\private_real_estate\resources\views/interfacemaster.blade.php ENDPATH**/ ?>

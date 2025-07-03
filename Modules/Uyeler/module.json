@@ -1,0 +1,13 @@
+{
+    "name": "Uyeler",
+    "alias": "uyeler",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Uyeler\\Providers\\UyelerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

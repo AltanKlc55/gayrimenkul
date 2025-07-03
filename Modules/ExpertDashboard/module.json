@@ -1,0 +1,13 @@
+{
+    "name": "ExpertDashboard",
+    "alias": "expertdashboard",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ExpertDashboard\\Providers\\ExpertDashboardServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

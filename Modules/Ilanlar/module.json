@@ -1,0 +1,13 @@
+{
+    "name": "Ilanlar",
+    "alias": "ilanlar",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Ilanlar\\Providers\\IlanlarServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

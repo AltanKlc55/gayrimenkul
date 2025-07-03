@@ -1,0 +1,13 @@
+{
+    "name": "Subeler",
+    "alias": "subeler",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Subeler\\Providers\\SubelerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Psikologlar",
+    "alias": "psikologlar",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Psikologlar\\Providers\\PsikologlarServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
